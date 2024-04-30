@@ -2,3 +2,5 @@ Complete rumor script with ChatGPT, which allows placing an NPC to spread rumors
 
 To configure in your server.cfg:
 set openai_api_key "yourkey" # https://platform.openai.com/account/api-keys
+
+Thank you for crediting us for the use of the script, Team Nolosha.
